@@ -1567,7 +1567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:LED_SK6812MINI"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 109.22 59.69 0)
 			(effects
 				(font
@@ -1784,7 +1784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:LED_SK6812MINI"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 166.37 59.69 0)
 			(effects
 				(font
@@ -1934,7 +1934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:LED_SK6812MINI"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 128.27 59.69 0)
 			(effects
 				(font
@@ -2353,7 +2353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
+		(property "Footprint" "Hackclub Footprints:XIAO-RP2040-DIP"
 			(at 66.548 67.818 0)
 			(effects
 				(font
@@ -2456,7 +2456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:LED_SK6812MINI"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 147.32 59.69 0)
 			(effects
 				(font
